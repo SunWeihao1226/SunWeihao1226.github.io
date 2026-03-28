@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. Student @ Cornell University</a>.
+subtitle: <a href='#'>THIS WEBSITE IS STILL UNDER CONSTRUCTION!</a>.
 
 profile:
   align: right
@@ -26,6 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a first-year Ph.D. student in Systems Engineering at Cornell, and a member in [IDS](https://ids-lab.net/) Lab. I am forturnate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interest are Reinforcement Learning, Optimal Control, and Robotics.
+I am a first-year Ph.D. student in Systems Engineering at Cornell (26Fall), and a member in [IDS](https://ids-lab.net/) Lab. I am forturnate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interest are Reinforcement Learning, Optimal Control, and Robotics.
 
 Previously, I completed my Master's of Science degree in Systems of Engineering at Cornell University. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from Univeristy of British Columbia.
