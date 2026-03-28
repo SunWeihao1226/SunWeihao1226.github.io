@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: Weihao Sun # the website title (if blank, full name will be used instead)
+displayname: Weihao Sun
+title: Weihao Sun (孙炜昊) # the website title (if blank, full name will be used instead)
 first_name: Weihao
 middle_name: 
 last_name: Sun
@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ws.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://SunWeihao1226.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -268,8 +268,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sun]
+  first_name: [Weihao]
 
   style: apa
   locale: en
