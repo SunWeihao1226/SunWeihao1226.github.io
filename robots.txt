@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.sunweihao26.com/al-folio/sitemap.xml
