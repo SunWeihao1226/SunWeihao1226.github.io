@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.sunweihao26.com/al-folio/sitemap.xml
+Sitemap: https://SunWeihao1226.github.io/al-folio/sitemap.xml
