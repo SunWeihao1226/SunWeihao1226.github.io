@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year Ph.D. student in Systems Engineering at Cornell, and a member in [IDS](https://ids-lab.net/) Lab. I am forturnate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interest are Reinforcement Learning, Optimal Control, and Robotics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my Master's of Science degree in Systems of Engineering at Cornell University. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from Univeristy of British Columbia.
