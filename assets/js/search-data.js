@@ -84,7 +84,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-pleased-to-announce-that-i-will-be-pursuing-a-ph-d-in-systems-engineering-at-cornell-university-under-the-supervision-of-professor-andreas-malikopoulos",
           title: 'I am pleased to announce that I will be pursuing a Ph.D. in...',
           description: "",
-          section: "News",},{id: "projects-the-ids-scaled-smart-city-ids3c",
+          section: "News",},{id: "projects-clinical-decision-support-system-for-post-pregnancy-loss-mental-health",
+          title: 'Clinical Decision Support System for Post-Pregnancy Loss Mental Health',
+          description: "Data-driven modeling for postpartum depression risk prediction and clinical decision support",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PPD/";
+            },},{id: "projects-the-ids-scaled-smart-city-ids3c",
           title: 'The IDS Scaled Smart City (IDS3C)',
           description: "Scaled city testbed implementation and maintaince",
           section: "Projects",handler: () => {
