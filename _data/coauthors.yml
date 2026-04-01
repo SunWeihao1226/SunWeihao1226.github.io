@@ -1,8 +1,23 @@
-"Andreas":
-  - firstname: [" Andreas", " Andreas A."," Andreas A"]
+"malikopoulos":
+  - firstname: ["Andreas", "Andreas A.","Andreas A"]
     url: https://scholar.google.com/citations?user=ScKI3psAAAAJ&hl=en
 
-"Heeseung":
-  - firstname: [" Heeseung"]
+"bang":
+  - firstname: ["Heeseung"]
     url: https://scholar.google.com/citations?user=DjGJZNAAAAAJ&hl=en
 
+"wang":
+  - firstname: ["Shanting"]
+    url: https://scholar.google.com/citations?user=H-cyUVwAAAAJ&hl=en
+
+"xu":
+  - firstname: ["Gehui"]
+    url: https://scholar.google.com/citations?user=NojYTMAAAAAJ&hl=en
+
+"parisini":
+  - firstname: ["Thomas"]
+    url: https://scholar.google.com/citations?user=tk2XuvYAAAAJ&hl=en
+
+"moreschini":
+  - firstname: ["Alessio"]
+    url: https://scholar.google.com/citations?user=dZC9TZgAAAAJ&hl=it

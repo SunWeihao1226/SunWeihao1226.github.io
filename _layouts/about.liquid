@@ -8,7 +8,7 @@ layout: default
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
-        {{ site.title }}
+        {{ site.displayname }}
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
@@ -110,19 +110,25 @@ layout: default
               >
             </div>
           {% endif %}
+
           <div class="{% if project.img %}col-sm-9{% else %}col-sm-12{% endif %}">
-            <h5 class="mb-1">
-              {% if project.redirect %}
-                <a href="{{ project.redirect }}">{{ project.title }}</a>
-              {% elsif project.github %}
-                <a href="{{ project.github }}">{{ project.title }}</a>
-              {% else %}
-                {{ project.title }}
-              {% endif %}
+            <h5 class="mb-1" style="color: black;">
+              {{ project.title }}
             </h5>
+
             {% if project.description %}
               <p class="mb-1">{{ project.description }}</p>
             {% endif %}
+
+            <p class="mb-0">
+              {% if project.redirect %}
+                <a href="{{ project.redirect }}">View project</a>
+              {% elsif project.github %}
+                <a href="{{ project.github }}">View project</a>
+              {% else %}
+                <a href="{{ project.url | relative_url }}">View project</a>
+              {% endif %}
+            </p>
           </div>
         </div>
       {% endfor %}
