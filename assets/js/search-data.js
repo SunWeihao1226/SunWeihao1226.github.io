@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -69,8 +62,8 @@ ninja.data = [{
             },},{id: "news-i-started-my-master-study-at-cornell-university-systems-engineering",
           title: 'I started my Master study at Cornell University Systems Engineering.',
           description: "",
-          section: "News",},{id: "news-i-presented-our-capstone-project-with-my-collaborators-at-ccheq-symposium-at-weill-cornell-medicine-in-manhattan-nyc",
-          title: 'I presented our capstone project with my collaborators at CCHEq. Symposium at Weill...',
+          section: "News",},{id: "news-i-presented-our-systems-capstone-project-with-my-collaborators-at-ccheq-symposium-at-weill-cornell-medicine-in-manhattan-nyc",
+          title: 'I presented our Systems capstone project with my collaborators at CCHEq. Symposium at...',
           description: "",
           section: "News",},{id: "news-i-received-my-m-eng-degree-in-systems-engineering-from-cornell-university-and-am-continuing-in-the-same-program-to-pursue-a-thesis-based-m-s-degree",
           title: 'I received my M.Eng. degree in Systems Engineering from Cornell University and am...',
@@ -84,11 +77,21 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-pleased-to-announce-that-i-will-be-pursuing-a-ph-d-in-systems-engineering-at-cornell-university-under-the-supervision-of-professor-andreas-malikopoulos",
           title: 'I am pleased to announce that I will be pursuing a Ph.D. in...',
           description: "",
-          section: "News",},{id: "projects-clinical-decision-support-system-for-post-pregnancy-loss-mental-health",
-          title: 'Clinical Decision Support System for Post-Pregnancy Loss Mental Health',
+          section: "News",},{id: "projects-forecasting-demand-for-urgent-care-services",
+          title: 'Forecasting Demand for Urgent Care Services',
+          description: "Machine learning based forecasting for healthcare demand prediction, collaborated with BorealisAI.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ER_predict/";
+            },},{id: "projects-clinical-decision-support-system-for-post-pregnancy-mental-health",
+          title: 'Clinical Decision Support System for Post-Pregnancy Mental Health',
           description: "Data-driven modeling for postpartum depression risk prediction and clinical decision support",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PPD/";
+            },},{id: "projects-physics-informed-neural-networks-for-battery-modeling",
+          title: 'Physics Informed Neural Networks for Battery Modeling',
+          description: "PINN based modeling of lithium ion battery dynamics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pinn/";
             },},{id: "projects-the-ids-scaled-smart-city-ids3c",
           title: 'The IDS Scaled Smart City (IDS3C)',
           description: "Scaled city testbed implementation and maintaince",
