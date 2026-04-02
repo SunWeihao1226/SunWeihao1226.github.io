@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>THIS WEBSITE IS STILL UNDER CONSTRUCTION!</a>.
+subtitle: Ph.D. student at <a/ href='https://www.duffield.cornell.edu/sys/'>Systems Engineering, Cornell University</a>
 
 profile:
   align: right
@@ -27,9 +27,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-
 ---
-I am a first year Ph.D. student in Systems Engineering at Cornell University, starting in Fall 2026, and a member of the [IDS](https://ids-lab.net/) Lab. I am forturnate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interests include Reinforcement Learning, Optimal Control, and Robotics.
+I am a first-year Ph.D. student in Systems Engineering at Cornell University, starting in Fall 2026, and a member of the [IDS](https://ids-lab.net/) Lab. I am fortunate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interests include Reinforcement Learning, Optimal Control, and Robotics.
 
-Previously, I completed my Master of Science degree in Systems of Engineering at Cornell University. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from Univeristy of British Columbia.
+Previously, I completed my Master of Science degree in Systems Engineering at Cornell University. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from Univeristy of British Columbia.
+
+
 

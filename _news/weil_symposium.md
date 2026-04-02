@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented our capstone project with my collaborators at CCHEq. Symposium at Weill Cornell Medicine in Manhattan, NYC.
+I presented our Systems capstone project with my collaborators at CCHEq. Symposium at Weill Cornell Medicine in Manhattan, NYC.

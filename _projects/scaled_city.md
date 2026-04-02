@@ -7,6 +7,7 @@ importance: 1
 featured: true
 category: work
 related_publications: false
+period: Oct. 2025 – Present
 ---
 
 ## Overview

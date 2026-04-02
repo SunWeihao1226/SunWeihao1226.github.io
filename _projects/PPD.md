@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Clinical Decision Support System for Post-Pregnancy Loss Mental Health
+title: Clinical Decision Support System for Post-Pregnancy Mental Health
 description: Data-driven modeling for postpartum depression risk prediction and clinical decision support
 img: assets/img/ppl_cover.png
 importance: 2
 featured: false
 category: work
 related_publications: false
+period: Sep. 2024 – May. 2025
 ---
 
 ## Overview
@@ -45,6 +46,6 @@ Beyond prediction, this project incorporates a systems engineering perspective b
 
 ## Poster
 
-<embed src="/assets/pdf/ppl_poster.pptx.pdf" width="100%" height="600px" type="application/pdf">
+<!-- <embed src="/assets/pdf/ppl_poster.pptx.pdf" width="100%" height="600px" type="application/pdf"> -->
 
-[Download Poster (PDF)](/assets/pdf/ppl_poster.pptx.pdf)
+See our results in this [Poster](/assets/pdf/ppl_poster.pptx.pdf).

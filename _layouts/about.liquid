@@ -135,6 +135,32 @@ layout: default
     {% endif %}
 
 
+    <!-- Academic Service -->
+    {% if site.data.academic_services and site.data.academic_services.size > 0 %}
+    <div style="margin-top: 4rem;">
+      <h2>Academic Services</h2>
+      <ul>
+        {% for service in site.data.academic_services %}
+          <li>
+            {{ service.role }}, {{ service.venue }}{% if service.abbreviation %} ({{ service.abbreviation }}){% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+      </div>
+    {% endif %}
+
+
+    <!-- Award and Certifications -->
+    {% if site.data.awards and site.data.awards.size > 0 %}
+      <div class="mt-5">
+        <h2>Awards & Certifications</h2>
+        <ul>
+          {% for award in site.data.awards %}
+            <li>{{ award.title }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}

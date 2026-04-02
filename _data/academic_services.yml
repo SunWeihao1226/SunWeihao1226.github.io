@@ -1,0 +1,7 @@
+- role: Reviewer
+  venue: IEEE Intelligent Transportation Systems Conference
+  abbreviation: ITSC
+
+- role: Reviewer
+  venue: IEEE Intelligent Vehicles Symposium
+  abbreviation: IV
