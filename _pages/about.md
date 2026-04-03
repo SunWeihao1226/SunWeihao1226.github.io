@@ -32,5 +32,5 @@ I am a first-year Ph.D. student in Systems Engineering at Cornell University, st
 
 Previously, I completed my Master of Science degree in Systems Engineering at Cornell University. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from Univeristy of British Columbia.
 
-
+For more details about my research and experience, please see my [CV](/assets/pdf/CV_2026_v0.pdf).
 
