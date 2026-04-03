@@ -28,9 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-I am a first-year Ph.D. student in Systems Engineering at Cornell University, starting in Fall 2026, and a member of the [IDS](https://ids-lab.net/) Lab. I am fortunate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interests include Reinforcement Learning, Optimal Control, and Robotics.
+I am a first-year Ph.D. student in Systems Engineering at Cornell University, starting in Fall 2026, and a member of the [Information and Decision Science (IDS) Lab](https://ids-lab.net/). I am fortunate to be advised by Prof. [Andreas Malikopoulos](https://ids-lab.net/people/). My research interests include reinforcement learning, multi agent systems, optimal control, and robotics.
 
-Previously, I completed my Master of Science degree in Systems Engineering at Cornell University. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from Univeristy of British Columbia.
+Previously, I pursued a Master of Science in Systems Engineering at Cornell University, with the degree expected in May 2026. I received my Bachelor of Science degree in Statistics, with a minor in Data Science, from the University of British Columbia.
 
 For more details about my research and experience, please see my [CV](/assets/pdf/CV_2026_v0.pdf).
 
