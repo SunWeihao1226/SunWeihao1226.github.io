@@ -60,12 +60,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-our-systems-capstone-project-with-my-collaborators-at-ccheq-symposium-at-weill-cornell-medicine-in-manhattan-nyc",
           title: 'I presented our Systems capstone project with my collaborators at CCHEq. Symposium at...',
           description: "",
-          section: "News",},{id: "news-meng-grad",
-          title: 'Meng_grad',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/meng_grad/";
-            },},{id: "news-my-first-paper-ai-recommendation-systems-for-lane-changing-using-adherence-aware-reinforcement-learning-got-accepted-to-the-ieee-international-conference-on-intelligent-transportation-systems-2025",
+          section: "News",},{id: "news-my-first-paper-ai-recommendation-systems-for-lane-changing-using-adherence-aware-reinforcement-learning-got-accepted-to-the-ieee-international-conference-on-intelligent-transportation-systems-2025",
           title: 'My first paper, AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning, got...',
           description: "",
           section: "News",},{id: "news-i-presented-my-our-paper-at-ieee-itsc-2025-in-gold-coast-australia",
