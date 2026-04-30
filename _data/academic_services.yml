@@ -5,3 +5,7 @@
 - role: Reviewer
   venue: IEEE Intelligent Vehicles Symposium
   abbreviation: IV
+
+- role: Reviewer
+  venue: IEEE Conference on Decision and Control
+  abbreviation: CDC
