@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-05-06'
 papers:
+  2DO5ce0AAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: An Online Learning Approach for Two-Player Zero-Sum Linear Quadratic Games
+    year: '2026'
   2DO5ce0AAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: A Functional Learning Approach for Team-Optimal Traffic Coordination
